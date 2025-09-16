@@ -1,3 +1,4 @@
-Nama   : fadilla husniyah
-Kelas  : XI rpl 2
-Alamat : moch toha
+Nama       : fadilla husniyah
+Kelas      : XI rpl 2
+Alama    t : moch toha
+cita- cita : guru
